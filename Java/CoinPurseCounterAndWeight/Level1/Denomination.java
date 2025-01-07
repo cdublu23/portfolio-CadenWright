@@ -1,0 +1,1 @@
+public enum Denomination{penny, nickel, dime, quarter;}
